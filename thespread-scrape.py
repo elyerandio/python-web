@@ -73,7 +73,7 @@ def writeSheet1():
     for name in sorted(pitchers, key=lambda x : pitchers[x]['numberOfGames'], reverse=True): 
         sheet1.write(rowNum, 0, name)
         colNum = 1
-        for stat in pitchers[name]['stat']:
+        for stat in reversed(pitchers[name]['stat']):
             if stat == 'Un':
                 style = style_under
             elif stat == 'Ov':
