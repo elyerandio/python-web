@@ -1,0 +1,706 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>People who are not in love fail to understand how an intelligent man can suffer because of a very ordinary woman. This is like being surprised that anyone should be stricken with cholera because of a creature so insignificant as the comma bacillus. by Marcel Proust</title>
+<meta name="Keywords" content="People who are not in love fail to understand how an intelligent man can suffer because of a very ordinary woman. This is like being surprised that anyone should be stricken with cholera because of a creature so insignificant as the comma bacillus. by Marcel Proust">
+<meta name="Description" content="People who are not in love fail to understand how an intelligent man can suffer because of a very ordinary woman. This is like being surprised that anyone should be stricken with cholera because of a creature so insignificant as the comma bacillus. by Marcel Proust">
+<link rel="stylesheet" type="text/css" media="all" href="/style.css?ez_orig=1">
+<script language="JavaScript">
+  function form_jump(path) {
+    var URL = path.options[path.selectedIndex].value;
+    window.location.href = URL;
+  }
+
+  function authorpop(authorid, action) {
+    newWindow = window.open("/author.php?action=" + action + "&authorid=" + authorid, "toolbar=no,scrollbars=no,resizable=no,width=370,height=192, top=90, left=90");
+  }
+
+  function quotepop(quoteid, action, catid) {
+    newWindow = window.open("/quote.php?action=" + action + "&quoteid=" + quoteid + "&catid=" + catid, "quote" + quoteid, "toolbar=no,scrollbars=no,resizable=no,width=370,height=192, top=90, left=90");
+  }
+
+  dayarray = new Array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
+  montharray = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
+
+  datestamp = new Date();
+  day       = datestamp.getDate();
+  month     = datestamp.getMonth();
+  year      = datestamp.getYear();
+  dayofweek = datestamp.getDay();
+
+  var end = "th";
+  if (year < 2000) { year = year + 1900; }
+  if (day == "1" || day == "21" || day == "31") { end = "st"; }
+  else if (day == "2" || day == "22") { end = "nd"; }
+  else if (day == "3" || day == "23") { end = "rd"; }
+  var currentdate = dayarray[dayofweek] + ", " +montharray[month] + " " + day + end + ", " + year;
+
+  function copy_to_clipboard(field) {
+    var val = eval("document." + field)
+    val.select()
+
+    if (document.all) {
+      range = val.createTextRange();
+      range.execCommand("Copy");
+      alert('Quote successfully copied. Press Ctrl + V to paste');
+    }
+  }
+</script>
+<!-- START EZHEAD -->
+<script type='text/javascript'>var soc_app_id = '0';</script>
+<script type='text/javascript'>var did = 74;</script>
+<script src="https://www.google.com/jsapi?key=ABQIAAAAWvH7lmtbXPVbvOqmVVU9VRQdDxq4C7wyBnVikl0uwU8F0c1b7hTtX9ZL_MgGQCkMAayuC2BlaK4QRQ" type="text/javascript"></script><script type="text/javascript">
+google.load("jquery", "1.4.3");
+</script>
+<script type='text/javascript' src='http://cdn.ezocdn.com/shared/jquery.cookie.js'></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script> 
+<script src='http://cdn.quotedb.com/ez_display_au_fillslot.js' type='text/javascript'></script>
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-6644558441501035");
+GS_googleEnableAllServices();
+</script>   
+<script type='text/javascript'>
+GA_googleAddSlot('ca-pub-6644558441501035', 'quotedb_com-box-1');
+GA_googleAddSlot('ca-pub-6644558441501035', 'quotedb_com-box-2');
+GA_googleAddSlot('ca-pub-6644558441501035', 'quotedb_com-medrectangle-1');
+GA_googleAddSlot('ca-pub-6644558441501035', 'quotedb_com-medrectangle-2');
+GA_googleAddSlot('ca-pub-6644558441501035', 'quotedb_com-leader-1');
+GA_googleAddSlot('ca-pub-6644558441501035', 'quotedb_com-leader-2');
+GA_googleAddSlot('ca-pub-6644558441501035', 'quotedb_com-sky-1');
+GA_googleAddSlot('ca-pub-6644558441501035', 'quotedb_com-sky-2');
+GA_googleAddSlot('ca-pub-6644558441501035', 'quotedb_com-popunder');
+GA_googleAddSlot('ca-pub-6644558441501035', 'quotedb_com-inline');
+GA_googleAddSlot('ca-pub-6644558441501035', 'quotedb_com-pixel1');
+GA_googleAddSlot('ca-pub-6644558441501035', 'quotedb_com-pixel2');
+GA_googleAddSlot('ca-pub-6644558441501035', 'quotedb_com-pixel3');
+GA_googleAddSlot('ca-pub-6644558441501035', 'quotedb_com-pixel4');
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+
+
+<!--start_menu-->
+<link href="http://cdn.utilcave.com/menu/themes/css/dropdown/dropdown.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://cdn.utilcave.com/menu/themes/css/dropdown/themes/nvidia.com/default.advanced.css" media="screen" rel="stylesheet" type="text/css" />
+<!--[if lte IE 7]>
+<script type="text/javascript" src="http://utilcave.com/menu/themes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://utilcave.com/menu/themes/js/jquery/jquery.dropdown.js"></script>
+<![endif]-->
+<link href="http://utilcave.com/menu/menu.css.php?did=74" rel="stylesheet" type="text/css" />
+<!--close_menu-->
+
+<!--start_emailbar-->
+<link href="http://utilcave.com/bobar/bobar.css.php?did=74" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://cdn.utilcave.com/bobar/src/jquery.jixedbar.js"></script>
+<script type="text/javascript" src="http://cdn.utilcave.com/jquery-fonteffect-1.0.0.js"></script>
+<script type="text/javascript" src="http://utilcave.com/bobar/bobar.js.php?did=74&sitelang=php"></script>
+<!--close_emailbar-->
+<!--start_foot-->
+<link href="http://utilcave.com/bofoot/bofoot.css.php?did=74" rel="stylesheet" type="text/css" />
+<!--close_foot-->
+<!-- END EZHEAD -->
+<script type="text/javascript">var ezouid = "1561045054";</script><script type="text/javascript">window.google_analytics_uacct = "UA-6311950-39";</script>
+<script type='text/javascript'>var ez_queue = new Array();
+function sort_queue(a, b)
+{
+  if( a.priority < b.priority ) return -1;
+  else if( a.priority == b.priority ) return 0;
+  else return 1;  
+}
+function execute_ez_queue()
+{
+  ez_queue.sort( sort_queue );
+
+  for( var i in ez_queue )
+  {
+        if(typeof ez_queue[i].method != "undefined")
+        {
+            ez_queue[i].method.call( null );
+        }
+  }
+}
+
+var ez_ad_units = new Array();    
+function ez_write_tag(d) {
+    if(d instanceof Array) {
+        ez_ad_units[ez_ad_units.length] = d;
+        var ezcmd = "googletag.cmd.push(function() { googletag.display('div-gpt-ad-"+d[1]+"-0');});";
+        return ezcmd;
+    }
+    else {
+        return "1+1";
+    }
+}
+function in_array(needle, haystack) {
+    var length = haystack.length;
+    for(var i = 0; i < length; i++) {
+        if(haystack[i] == needle) return true;
+    }
+    return false;
+}</script><script type='text/javascript'>var slot_1 = googletag.defineSlot('/1254144/quotedb_com-inline-1', [2, 2], 'div-gpt-ad-quotedb_com-inline-1-0').addService(googletag.pubads()).setTargeting('template','orig_site').setTargeting('ezposition','btf').setTargeting('kv','c=0&t=5&v={ezoic_variation_id}&x=1').setTargeting('t1','5').setTargeting('ac','');
+slot_1.set('adsense_border_color', 'FFFFFF').set('adsense_link_color', '37a5d7').set('adsense_background_color', 'FFFFFF').set('adsense_text_color', '000000').set('adsense_url_color', 'F0F0F0').set('adsense_ad_types', 'text_image');googletag.enableServices();</script><!--[if lt IE 9]>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<![endif]-->
+<!--[if (gte IE 9) | (!IE)]><!-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+<!--<![endif]--><script src="/utilcave_com/templates/js/ezjquery-noconflict.js"></script><script type='text/javascript'>
+var ezoTemplate = 'orig_site';
+if(typeof ezouid == 'undefined')
+{
+    var ezouid = 'none';
+}
+var ezoFormfactor = '';
+if(typeof ezpaq == "undefined")
+{
+    var ezpaq = "-";
+}
+
+
+var ezo_elements_to_check = Array();
+</script>
+
+<script>
+var old_jquery = null;
+var old_jquery_sign = null;
+function open_jquery_wrapper()
+{
+    if(typeof $ezJQuery != 'undefined')
+    {
+        old_jquery = jQuery;
+        old_jquery_sign = $;
+        $ = $ezJQuery;
+        jQuery = $ezJQuery;
+    }
+}
+function close_jquery_wrapper()
+{
+    if(typeof $ezJQuery != 'undefined')
+    {
+        $ = old_jquery_sign;
+        jQuery = old_jquery;
+    }
+}
+//minified table_resize_js.txt - http://refresh-sf.com/yui/
+function ez_get_widest_cells(c){var b=0;var d=0;var a=new Array();$ezJQuery("td,th",c).each(function(){if($ezJQuery(this).css("word-break")!="break-all"&&$ezJQuery(this).css("word-break")!="break-word"){if($ezJQuery(this).width()>b){b=$ezJQuery(this).width();d=0;a=new Array()}if($ezJQuery(this).width()==b){if($ezJQuery(this).data("ez_lpw")>d){d=$ezJQuery(this).data("ez_lpw");a=new Array()}if($ezJQuery(this).data("ez_lpw")==d&&d>10){a.push(this)}}}});return a}function ez_scale_font(a){if($ezJQuery(a).children().length>0){$ezJQuery(a).children().each(function(){ez_scale_font(this)})}$ezJQuery(a).css("font-size",parseInt($ezJQuery(a).css("font-size"))-1)}function ez_get_min_font(a){var b=16;$ezJQuery("*",a).each(function(){if(parseInt($ezJQuery(this).css("font-size"))<b){b=parseInt($ezJQuery(this).css("font-size"))}});return b}function ez_get_max_font(b){var a=10;$ezJQuery("*",b).each(function(){if(parseInt($ezJQuery(this).css("font-size"))>a){a=parseInt($ezJQuery(this).css("font-size"))}});return a}function ez_get_max_padding(b){var a=0;$ezJQuery("td",b).each(function(){if(parseInt($ezJQuery(this).css("padding-left"))>a){a=parseInt($ezJQuery(this).css("padding-left"))}if(parseInt($ezJQuery(this).css("padding-right"))>a){a=parseInt($ezJQuery(this).css("padding-left"))}});return a}function ez_scale_padding(a){$ezJQuery("td",a).each(function(){if(parseInt($ezJQuery(this).css("padding-left"))>1){$ezJQuery(this).css("padding-left",parseInt($ezJQuery(this).css("padding-left"))-1)}if(parseInt($ezJQuery(this).css("padding-right"))>1){$ezJQuery(this).css("padding-right",parseInt($ezJQuery(this).css("padding-left"))-1)}})}var ez_word_break_tables=[];function ez_word_break_table(a){if(typeof $ezJQuery=="undefined"){ez_word_break_tables.push(a);if(ez_word_break_tables.length==1){ez_queue.push({method:run_ez_word_break_tables,priority:1})}}else{run_ez_word_break_table(a)}}function ez_reset_width(a){if($ezJQuery(a).data("ez-no-defined-width")===true){$ezJQuery(a).css("width","")}return 1}function run_ez_word_break_tables(){$ezJQuery.each(ez_word_break_tables,function(a,b){run_ez_word_break_table(b)})}function run_ez_word_break_table(a){var l=$ezJQuery("#ez_script_id_"+a).prev("table");var d=11;if($ezJQuery(l).data("ez-gwidth")!=null){var g=$ezJQuery(l).data("ez-gwidth");var m=false;if(String(g).indexOf("%")>=0){m=true;g=Math.ceil((parseInt(g)/100)*$ezJQuery(l).parent()[0].clientWidth)}if($ezJQuery(l).width()<=g){return ez_reset_width(l)}var b=true;if(m==false&&$ezJQuery(l).data("ez-no-defined-width")===true){b=false;$ezJQuery(l).css("width",g)}var j=false;$ezJQuery("td,th",l).each(function(){var q=$ezJQuery(this).clone().find("script").remove().end().text();var n=q.split(/[.,\/ -]/);var p=n.reduce(function(r,s){return r.length>s.length?r:s}).length;var i=ez_get_max_font(this);var o=p*i*0.6;$ezJQuery(this).data("ez_lpw",o);if($ezJQuery(this).width()>0&&o>($ezJQuery(this).width()*0.65)){j=true}});if(j==false){return ez_reset_width(l)}var c=ez_get_min_font(l);if(c==12){d=10}else{if(c==11){d=9}}while(c>d+1&&$ezJQuery(l).width()>g){var f=$ezJQuery(l).width();ez_scale_font(l);c--;if(f==$ezJQuery(l).width()){return ez_reset_width(l)}}if($ezJQuery(l).width()<=g){return ez_reset_width(l)}var k=ez_get_max_padding(l);var f=$ezJQuery(l).width();while(k>1&&$ezJQuery(l).width()>g){ez_scale_padding(l);k--;if($ezJQuery(l).width()<=g){return ez_reset_width(l)}}while(c>d&&$ezJQuery(l).width()>g){var f=$ezJQuery(l).width();ez_scale_font(l);c--;if(f==$ezJQuery(l).width()){return ez_reset_width(l)}}if($ezJQuery(l).width()<=g){return ez_reset_width(l)}var h=ez_get_widest_cells($ezJQuery(l));while(h.length!=0&&$ezJQuery(l).width()>g){for(var e=0;e<h.length;e++){if(b===true){$ezJQuery(h[e]).css("width",$ezJQuery(h[e]).width())}$ezJQuery(h[e]).css("word-break","break-all");$ezJQuery(h[e]).css("word-break","break-word")}h=ez_get_widest_cells(l)}return ez_reset_width(l)}};
+</script>
+
+
+<!-- START EZHEAD -->
+<script type='text/javascript'>
+var soc_app_id = '0';
+var did = 74;
+var ezdomain = 'quotedb.com';
+var ezoicSearchable = 1;
+</script>
+<!--{jquery}-->
+<!--start_menu-->
+<link href="http://cdn.utilcave.com/menu/themes/css/dropdown/dropdown.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://cdn.utilcave.com/menu/themes/css/dropdown/themes/nvidia.com/default.advanced.css" media="screen" rel="stylesheet" type="text/css" />
+<!--[if lte IE 7]>
+<script type="text/javascript" src="http://utilcave.com/menu/themes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://utilcave.com/menu/themes/js/jquery/jquery.dropdown.js"></script>
+<![endif]-->
+<link href="http://utilcave.com/menu/menu.css.php?did=74&v=2" rel="stylesheet" type="text/css" />
+<!--[if IE]>
+<link href="http://utilcave.com/menu/ie.css.php?did=74" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--close_menu-->
+
+<!--start_emailbar-->
+<link href="http://utilcave.com/bobar/bobar.css.php?did=74" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://cdn.utilcave.com/bobar/src/jquery.jixedbar.js"></script>
+<script type="text/javascript" src="http://cdn.utilcave.com/jquery-fonteffect-1.0.0.js"></script>
+<script type="text/javascript" src="http://utilcave.com/bobar/bobar.js.php?did=74&sitelang=php"></script>
+<!--close_emailbar-->
+<!--start_foot-->
+<link href="http://utilcave.com/bofoot/bofoot.css.php?did=74" rel="stylesheet" type="text/css" />
+<!--close_foot-->
+<!-- END EZHEAD -->
+</head>
+<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+
+<!--INFOLINKS_OFF-->
+<div id="umain">
+    <div class="header">
+        <div class="logo"><a href=""><img src="http://cdn.quotedb.com/quotedb.png" alt="Quote DB" /></a></div>
+        <div class="sitename"><a href="http://quotedb.com" style="font-family: inherit;">Quote DB</a></div>
+        <div class="rightside">
+            <div class="social">
+                <table class="sublinks" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                        <td><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="" send="false" layout="button_count" width="75" show_faces="false" font=""></fb:like></td>
+                        <td><a href="http://twitter.com/share" class="twitter-share-button">Tweet</a></td>
+                        <td><g:plusone size="medium"></g:plusone></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="sublinks">
+                <ul class="dropdown dropdown-horizontal">
+                    <li><a href="/links">Links</a></li><li><a href="/contact">Contact Us</a></li><li><a href="/random_quotes_generator">Quotes to your Site</a></li>                </ul>
+            </div>
+        </div>
+    </div>   
+</div>
+<div style="clear:both;"></div>
+<div id="umenu">   
+    <div class="subheader">
+        <div class="menu">
+            <ul class="dropdown dropdown-horizontal">
+                <li><a href="/">Quote DB</a></li><li><a href="/authors">Authors</a></li><li><a href="/categories">Categories</a></li><li><a href="/speeches">Speeches</a></li><li><a href="/phpbb/myquotelist.php?action=view">My Quote List</a></li>            </ul>
+        </div>
+        <div class="search">
+                        <form action="/search.php" id="cse-search-box" style="display: inline;">
+            <input type="hidden" name="cx" value="partner-pub-6644558441501035:2366515236" />
+            <input type="hidden" name="cof" value="FORID:10" />
+            <input type="hidden" name="ie" value="ISO-8859-1" />
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                    <td>
+                        <input type="text" class="text" name="q" />
+                    </td>
+                    <td class="button">
+                        <input type="submit" name="sa" value="" />
+                    </td>
+                </tr>
+            </table>
+            </form>
+            <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+                    </div>
+    </div> 
+</div>
+<div id="ubottomline"></div>
+<!--INFOLINKS_ON-->
+<div style="clear:both; height: 10px;"></div>
+<table width="964" align="center" cellpadding="2" cellspacing="0">
+  <tr>
+    <td width="30%" bgcolor="#FFFFFF">&nbsp;<font class="date">» <script language="JavaScript">document.write(currentdate);</script></font></td>
+    <td width="70%" bgcolor="#FFFFFF" valign="middle" align="right" nowrap>
+        <img src="/images/new.gif" alt="Add Quotes to Your Site - Quote Generator" align="bottom"> <a href="/random_quotes_generator" class="boldlink" target="_blank">Add Quotes to Your Site - Quote Generator</a><br />add <a href="/random_quotes_generator" class="plain" target="_blank">quote of the day</a>, <a href="/random_quotes_generator" class="plain" target="_blank">random quotes</a> or by topic (e.g. <a href="/random_quotes_generator" class="plain" target="_blank">funny quotes</a>)
+    </td>
+  </tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="right" class="text">
+<script language="javascript" src="/phpbb/show_login.php">
+</script>
+</td>
+</tr>
+</table>
+
+<table width="790" align="center">
+  <tr>
+    <td width="100%"><img src="/images/clear.gif" height="3" width="1"></td>
+  </tr>
+  <tr>
+    <td width="100%"><img src="/images/clear.gif" height="3" width="1"></td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2">
+    <table width="920" align="center">
+    <tr>
+      <td width="760">
+    <table width="100%" cellpadding="2" cellspacing="2" border="0">
+      <tr>
+        <td width="50%" valign="bottom">
+  <br/><font class="text"><a href="/" title="Quote DB">Quote DB</a> :: <a href="/authors" title="Authors">Authors</a> :: 
+         <a href="/authors/marcel-proust" title="Marcel Proust">Marcel Proust</a>
+         :: View Quote</font>        </td>
+        
+        <td width="50%" valign="bottom" align="right">
+                      
+                  </td>
+      </tr>
+      
+      <tr>
+        <td width="100%" colspan="2"><img src="/images/clear.gif" height="4"></td>
+      </tr>
+    </table>
+  
+  <div align="center">
+<table width="700"><tr><td width="350" align="right">
+<!-- 336x280 Google Ad -->
+<div id='div-gpt-ad-quotedb_com-box-1-0' style='width:336px; height:280px;'>
+<script type='text/javascript'>
+eval(ez_write_tag([[336,280],'quotedb_com-box-1']));
+</script>
+</div>
+</td><td width="350" align="left">
+<!-- 336x280 Google Ad -->
+<div id='div-gpt-ad-quotedb_com-box-2-0' style='width:336px; height:280px;'>
+<script type='text/javascript'>
+eval(ez_write_tag([[336,280],'quotedb_com-box-2']));
+</script>
+</div>
+</td></tr></table>
+</div>  <br>
+  
+    <table width="100%" cellpadding="5" cellspacing="0">
+      <tr>
+        <td width="100%" bgcolor="black" colspan="3"><font class="light">View Quote</font></td>
+      </tr>
+      <tr>
+        <td width="15%" bgcolor="#F1F1F1" valign="top" align="center"><img src="/images/clear.gif" width="1" height="8"><br/>
+        <a href="/authors/marcel-proust"><img src="http://www.quotedb.com/images/authors/marcel_proust.jpg" alt="Marcel Proust" border="0"></a>
+        <br/><img src="/images/clear.gif" width="1" height="8"></td>
+        
+        <form name="quote"><input type="hidden" name="text" value="People who are not in love fail to understand how an intelligent man can suffer because of a very ordinary woman. This is like being surprised that anyone should be stricken with cholera because of a creature so insignificant as the comma bacillus."></form>
+        
+        <td width="55%" valign="top" bgcolor="#F1F1F1">
+          <table width="100%" cellpadding="6" cellspacing="0">
+            <tr>
+              <td width="100%">
+                <font class="text">&quot;People who are not in love fail to understand how an intelligent man can suffer because of a very ordinary woman. This is like being surprised that anyone should be stricken with cholera because of a creature so insignificant as the comma bacillus.&quot; - <a href="javascript: copy_to_clipboard('quote.text');">Copy to Clipboard</a></font><br />
+                <font class="text">&nbsp; -- &nbsp;<b>Marcel Proust</b></font>
+                <br /><hr />
+                <table width="100%">
+                  <tr>
+                    <td valign="top"><font class="text">Listed in: <a href="/categories/love" title="Love quotes">Love</a></font></td>
+                    <td valign="top" nowrap><font class="text"><a href="/phpbb/myquotelist.php?action=add&quote[3987]=on" title="Add Quote To Your Quote List">Add Quote To Your Quote List</a></td>
+                    <td valign="top" align="right">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td colspan="3" valign="top"><hr />
+                                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                        <td class="text">Rating: <img src="http://www.quotedb.com/images/green.gif" width="88.18" height="10" alt="4.41 avg (22 votes)" border="0"> 4.41</td>
+                        <td class="text" align="right"><img src="/images/plus.gif">&nbsp;<a href="javascript: quotepop(3987, 'rate');">Rate Quote</a></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="text">22 votes submitted</td>
+                    </tr>
+                    </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+                      </table>
+        </td>
+        
+        <td width="30%" bgcolor="#F1F1F1" valign="top">
+          <table width="90%" align="center">
+            <tr>
+              <form action="/quotes/3987/" method="post">
+              <td width="100%">
+              <font class="small">Your Name:</font> <input type="text" name="yourname" size="25"><br/>
+              <font class="small">Friend's Email:</font> <input type="text" name="friendemail" size="25"><br/>
+              <input type="hidden" name="quoteid" value="3987">
+              <input type="submit" name="emailsubmit" value="Send to Friend">
+
+                            </td></form>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    
+    <br />
+
+<div align="center">
+<div id='div-gpt-ad-quotedb_com-leader-1-0' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+eval(ez_write_tag([[728,90],'quotedb_com-leader-1']));
+</script>
+</div>
+</div>
+    <br />
+    
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+    <td bgcolor="black">
+    <table width="100%" cellpadding="5" cellspacing="0">
+    <tr>
+        <td width="100%" bgcolor="black"><font class="light">Top 5 quotes from Marcel Proust</font></td>
+    </tr>
+    </table></td>
+</tr>
+<tr>
+	<td>
+<ul style="margin-left: 15px; padding: 0px;">
+    <li><a href="/quotes/3988" title="The only paradise is paradise lost.">&quot;The only paradise is paradise lost.&quot;</a></li>
+<li><a href="/quotes/3995" title="If a little dreaming is dangerous, the cure for it is not to dream less but to dream more, to dream all the time.">&quot;If a little dreaming is dangerous, the cure for it is not to dream less but to dream more, to dream all the time.&quot;</a></li>
+<li><a href="/quotes/3998" title="It is often hard to bear the tears that we ourselves have caused.">&quot;It is often hard to bear the tears that we ourselves have caused.&quot;</a></li>
+<li><a href="/quotes/3999" title="The paradoxes of today are the prejudices of tomorrow, since the most benighted and the most deplorable prejudices have had their moment of novelty when fashion lent them its fragile grace.">&quot;The paradoxes of today are the prejudices of tomorrow, since the most benighted and the most deplorable prejudices have had their moment of novelty when fashion lent them its fragile grace.&quot;</a></li>
+<li><a href="/quotes/4006" title="I perceived that to express those impressions, to write that essential book, which is the only true one, a great writer does not, in the current meaning of the word, invent it, but, since it exists already in each one of us, interprets it. The duty and the task of a writer are those of an interpreter.">&quot;I perceived that to express those impressions, to write that essential book, which is the only true one, a great writer does not, in the current meaning of the word, invent it, but, since it exists already in each one of us, interprets it. The duty and the task of a writer are those of an interpreter.&quot;</a></li>
+</ul>
+    </td>
+</tr>
+<tr><td height="15"></td></tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+    <td bgcolor="black">
+    <table width="100%" cellpadding="5" cellspacing="0">
+    <tr>
+        <td width="100%" bgcolor="black" class="light">Top 5 quotes from Love</td>
+    </tr>
+    </table></td>
+</tr>
+<tr>
+    <td>
+    <ul style="margin-left: 15px; padding: 0px;">
+    <li><a href="/quotes/364" title="Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.">&quot;Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.&quot;</a>
+<li><a href="/quotes/2630" title="Love is not affectionate feeling, but a steady wish for the loved person\'s ultimate good as far as it can be obtained.">&quot;Love is not affectionate feeling, but a steady wish for the loved person's ultimate good as far as it can be obtained.&quot;</a>
+<li><a href="/quotes/1975" title="Life is but a brief moment. The years go by quickly and old age arrives suddenly before we have an inkling. People desire so many things and waste their days in vain. Some yearn for gold, others for power, yet others for glory and a higher station. But when death\'s moment nears and they look back at their lives they\'ve lived, they realise they\'ve been happy only during those moments when they\'ve loved.">&quot;Life is but a brief moment. The years go by quickly and old age arrives suddenly before we have an inkling. People desire so many things and waste their days in vain. Some yearn for gold, others for power, yet others for glory and a higher station. But when death's moment nears and they look back at their lives they've lived, they realise they've been happy only during those moments when they've loved.&quot;</a>
+<li><a href="/quotes/1644" title="You are what you love. Not what loves you.">&quot;You are what you love. Not what loves you.&quot;</a>
+<li><a href="/quotes/2769" title="Love never dies a natural death. It dies because we don\'t know how to replenish it\'s source. It dies of blindness and errors and betrayals. It dies of illness and wounds; it dies of weariness, of witherings, of tarnishings.">&quot;Love never dies a natural death. It dies because we don't know how to replenish it's source. It dies of blindness and errors and betrayals. It dies of illness and wounds; it dies of weariness, of witherings, of tarnishings.&quot;</a>
+    </ul>
+    </td>
+</tr>
+<tr><td height="15"></td></tr>
+</table>
+
+
+<!-- ValueClick Box -->
+		</td>
+		<td width="160" valign="top">
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<!-- ValueClick Sky -->
+		</td>
+	  </tr>
+	</table>
+	</td>
+</tr>
+</table>
+<br />
+<input type="hidden" name="IL_RELATED_TAGS" value="1"/>
+
+<!-- START EZFOOT -->
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-31iz6hfFutd16"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- Casale Media: Pop Under -->
+<script type="text/javascript"><!--
+var casaleD=new Date();var casaleR=(casaleD.getTime()&#134;73806982)+Math.random();
+var casaleU=escape(window.location.href);
+var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
+document.write('<scr'+'ipt'+casaleHost+'130792&amp;u=');
+document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"></scr'+'ipt>');
+//--></script>
+<!-- DO NOT MODIFY -->
+
+<div style='display:inline-block;'><script type="text/javascript">
+   var infolink_pid = 109741;
+   var infolink_wsid = 31;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+
+</div>
+
+
+<div id="bofoot">
+    <div id="menuitems" align="center">
+        <table cellpadding='0' cellspacing='0'><tr><td class='menucol' valign='top'><ul><li class='title' style='float: left;'><a href='/' class='single_col'>Quote DB</a><li> <li class='title' style='float: left; padding-left: 5px; padding-right: 5px;'>|</li> <li class='title' style='float: left;'><a href='/authors' class='single_col'>Authors</a><li> <li class='title' style='float: left; padding-left: 5px; padding-right: 5px;'>|</li> <li class='title' style='float: left;'><a href='/categories' class='single_col'>Categories</a><li> <li class='title' style='float: left; padding-left: 5px; padding-right: 5px;'>|</li> <li class='title' style='float: left;'><a href='/speeches' class='single_col'>Speeches</a><li> <li class='title' style='float: left; padding-left: 5px; padding-right: 5px;'>|</li> <li class='title' style='float: left;'><a href='/phpbb/myquotelist.php?action=view' class='single_col'>My Quote List</a><li></ul></td></tr></table>    </div>
+    <div class="footspace">
+        &nbsp;
+    </div>
+    <div id="bottom" align='center'>
+        <div class="table"  align='center'>
+            <table border=0>
+                <tr>
+                    <td id="copyright">© Copyright QuoteDB.com</td>
+                    <td> | </td>
+                    <td><a href="http://quotedb.com/privacy">privacy</a></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div><!--INFOLINKS_OFF-->
+<div id="bobar">
+    <div id="bar_topborder"></div>
+    <div style="clear: both;"></div>
+    <div style="float: right;"><ul class="jx-bar-button-right"></ul></div>
+    <div id="inner">
+        <div style="height: 100%; width: 100%;">
+            <table cellpadding="0" id="t_bdakfjl" cellspacing="0" border="0" style="padding: inherit; border: 0px; margin-top: inherit; margin-bottom: inherit;">
+                <tr>
+                    <td style="padding: inherit;">
+                        <ul>        
+                            <li style="border: 0px;"><a href="#" id="logoclick"></a>
+                                <ul id="barlogo">
+                                    <li class="barimage"><img src="http://cdn.quotedb.com/emailbar_quote.png" /></li>
+                                    <li class="bartext">
+                                        <div class="bartitle"><!--INFOLINKS_OFF-->Get a Quote<!--INFOLINKS_ON--></div>
+                                        <div class="barsubtitle"><!--INFOLINKS_OFF-->in your email every day!<!--INFOLINKS_ON--></div>
+                                        <div class="fineprint"><!--INFOLINKS_OFF-->We respect your privacy.<br/>You can unsubscribe at any time.<!--INFOLINKS_ON--></div>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </td>
+                    <td valign="top" style="vertical-align: top; padding: inherit;">
+                        <div class="text-container search" id="bobar_search">
+                            <form name="f1" onsubmit="xmlhttpPost(this, 1); return false;" style="float:left;margin:0px;padding:0px;">
+                            <table cellpadding="0" cellspacing="0" border="0" style="vertical-align: top; padding-top: inherit; padding-bottom: inherit; border: inherit; margin-top: inherit; margin-bottom: inherit;">
+                                <tr>
+                                    <td class="bar_arrow" style="padding-top: inherit; padding-bottom: inherit;">
+                                        <img src='http://cdn.utilcave.com/bobar/arrow.gif' border='0' style="vertical-align: top;padding-top: inherit; padding-bottom: inherit; padding-top: inherit; padding-bottom: inherit;" align="top" />
+                                    </td>
+                                    <td style="vertical-align: top; padding-top: inherit; padding-bottom: inherit; padding-left: inherit; padding-right: inherit;">
+                                        <table cellpadding="0" cellspacing="0" border="0" style="padding-top: inherit; padding-bottom: inherit; border: inherit; margin-top: inherit; margin-bottom: inherit;">
+                                            <tr>
+                                                <td colspan='2' class="searchbox_header" style="vertical-align: top;">
+                                                    <!--INFOLINKS_OFF-->Get a random quote daily in your email!<!--INFOLINKS_ON-->
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td valign="top" style="vertical-align: top; padding-top: inherit; padding-bottom: inherit; padding-left: inherit; padding-right: inherit;">
+                                                    <input type="text" id="bobar_email" name="bobar_email" value="enter your email here!" style="background-color:white;" />  
+                                                    <div id="bobar_searchspin" style="width: 100px; display: none;"><center><img src="http://cdn.utilcave.com/bobar/loading.gif"></center></div>
+                                                </td>
+                                                <td valign="top" style="padding-left: 3px; vertical-align: top; padding-top: inherit; padding-bottom: inherit;">
+                                                    <input type="submit" id="bobar_submit" value="Submit" style="background-color: #F0F0F0;" />
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                            </form>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+<!--INFOLINKS_ON--><!-- END EZFOOT -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-6311950-39']);
+_gaq.push(['_setCustomVar',1,'template','orig_site',1]);
+_gaq.push(['_setCustomVar',2,'v','{ezoic_variation_id}',1]);
+_gaq.push(['_setCustomVar',3,'t','5',1]);
+_gaq.push(['_setAllowAnchor',true]);
+_gaq.push(['_setSiteSpeedSampleRate', 10]);
+_gaq.push(['_trackPageview']);
+_gaq.push(['b._setAccount', 'UA-38339005-1']);
+_gaq.push(['b._setCustomVar',1,'template','orig_site',1]);
+_gaq.push(['b._setCustomVar',2,'domain','quotedb.com',3]);
+_gaq.push(['b._setSiteSpeedSampleRate', 20]);
+_gaq.push(['b._trackPageview']);
+
+
+(function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+var ez_tos_track_count = 0;
+var ez_last_activity_count = 0;
+(function (__ez_tos) {
+  window.setInterval(function () {
+    __ez_tos = (function (t) {
+      return t[0] == 45 ? (parseInt(t[1]) + 1) + ':00' : (t[1] || '0') + ':' + (parseInt(t[0]) + 15);
+    })(__ez_tos.split(':').reverse());
+
+    ez_tos_track_count++;
+    if(ez_tos_track_count > 1 && ez_tos_track_count < (ez_last_activity_count + 4) && ez_tos_track_count < 240)
+    {
+        if(window.pageTracker)
+        {
+            pageTracker._trackEvent('Time', 'Log', __ez_tos)
+        }
+        else
+        {
+           _gaq.push(['_trackEvent', 'Time', 'Log', __ez_tos]);
+           _gaq.push(['b._trackEvent', 'Time', 'Log', __ez_tos]);
+        }
+    }
+  }, 15000);
+})('00');
+
+</script>
+
+<script type="text/javascript">
+
+//if no jquery is loaded, load it.
+if(typeof $ezJQuery == 'undefined')
+{
+    if (typeof jQuery == 'undefined')
+    {
+        document.write('<scr'+'ipt type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></sc'+'ript>');
+    }
+    else
+    {
+        $ezJQuery = jQuery;
+    }
+}
+
+</script>
+
+<script type="text/javascript">
+
+//store jquery to avoid conflicts
+if (typeof $ezJQuery == 'undefined' && typeof jQuery != 'undefined')
+{
+    $ezJQuery = jQuery.noConflict();
+}
+
+</script>
+
+<script type="text/javascript">
+if(typeof $ezJQuery != 'undefined')
+{
+    $ezJQuery("body").mousemove(function(e){
+      ez_last_activity_count = ez_tos_track_count;
+    });
+    $ezJQuery("body").keypress(function(e){
+      ez_last_activity_count = ez_tos_track_count;
+    });
+    $ezJQuery("body").scroll(function(e){
+      ez_last_activity_count = ez_tos_track_count;
+    });
+}
+else
+{
+    ez_last_activity_count = 8;
+}
+</script><script type='text/javascript' src='http://cdn.quotedb.com/utilcave_com/inc/tb.php?cb=28-2?template=orig'></script>
+<script language="javascript">
+
+</script>
+
+
+<script>
+
+$ezJQuery(function() {
+    if (typeof run_body_onload == 'function') {
+        run_body_onload();
+    }
+    if (typeof ezoicJSPageLoad == 'function') {
+        ezoicJSPageLoad($ezJQuery);
+    }
+});
+
+</script>
+</body>
+</html>

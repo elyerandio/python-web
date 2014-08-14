@@ -28,21 +28,21 @@ while True:
     main = soup.find(id = "main-content")
 
     # get the content info
-    info = main.find_all(attrs={"class","info"})
+    info = main.find_all(attrs={"class", "info"})
 
     for item in info:
-        index = item.find(attrs={'class' : 'index'})
-        name = item.find(attrs={'class' : 'business-name'})
+        index = item.find(attrs={'class': 'index'})
+        name = item.find(attrs={'class': 'business-name'})
         print "\n-------------------------\n%s.) %s" % (index.string, name.string)
 
         ws.write(row, 0, name.string)
 
         # get address
-        adr = item.contents[1].find(attrs={'class','adr'})
+        adr = item.contents[1].find(attrs={'class', 'adr'})
         phone = item.contents[1].find(itemprop='telephone')
         if adr:
-            street = adr.find(attrs={'class','street-address'})
-            locality = adr.find(attrs={'class','locality'})
+            street = adr.find(attrs={'class', 'street-address'})
+            locality = adr.find(attrs={'class', 'locality'})
             state = adr.find(itemprop='addressRegion')
             zipcode = adr.find(itemprop='postalCode')
 
